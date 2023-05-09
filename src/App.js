@@ -1,7 +1,7 @@
 import React from 'react';
 import "bootstrap/dist/css/bootstrap.min.css";
 import { BrowserRouter as Router, Route} from "react-router-dom";
-import Navbar from "./components/navbar.component"
+import Navbar from "./components/navbar.component";
 import MovieReviewList from "./components/moviereviews-list.component";
 import EditMovieReview from "./components/edit-moviereview.component";
 import CreateMovieReview from "./components/create-moviereview.component";
